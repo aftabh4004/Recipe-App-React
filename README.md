@@ -7,7 +7,7 @@ Another Noob project Check it out here
 
 ## Disclaimer
 
-Only 5 requset per minute is allowed, So if you are seeing "Loading" for a
+Only 5 request per minute is allowed, So if you are seeing "Loading" for a
 while, try after one or two minute.
 
 Select the Category and start cooking
