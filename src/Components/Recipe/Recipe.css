@@ -1,0 +1,22 @@
+.reciperoot {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  margin: 10px;
+  border-radius: 12px;
+}
+
+.recipe__title {
+  font-style: italic;
+  padding: 20px 0px 20px 0px;
+}
+img {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+
+.listitem {
+  
+}

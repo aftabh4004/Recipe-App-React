@@ -1,0 +1,9 @@
+.Loadingroot {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}

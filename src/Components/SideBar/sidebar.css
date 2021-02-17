@@ -1,0 +1,23 @@
+.sidebar {
+  color: white;
+  height: 100%;
+  width: 260px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  background-color: #993333;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.sidebar__header {
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+
+.sidebar__cat {
+  padding-top: 20px;
+  cursor: pointer;
+}

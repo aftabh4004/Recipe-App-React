@@ -1,0 +1,19 @@
+.cover__root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cover__title {
+  padding: 20px;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: coral;
+}
+
+.cover__tag {
+  padding: 10px;
+  font-size: medium;
+  font-weight: 700;
+}
