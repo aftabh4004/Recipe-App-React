@@ -17,6 +17,12 @@ img {
   margin: 10px;
 }
 
-.listitem {
-  
+@media (max-width: 500px) {
+  .reciperoot {
+    flex-direction: column;
+  }
+  img {
+    height: 150px;
+    width: 150px;
+  }
 }
